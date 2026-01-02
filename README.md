@@ -5,4 +5,4 @@ Port of the hierarchical visualization control
 to PyQt and PySide.
 
 
-![demo.png](./demo.png)
+![demo.png](https://raw.githubusercontent.com/termim/qsquaremap/master/demo.png)
