@@ -58,10 +58,12 @@
     },
     "MIXEDLANGUAGE": false,
     "OTHERS": [
+      ".github/workflows/pypi-publish.yml",
       ".gitignore",
       "README.md",
       "pyproject.toml",
-      "qsquaremap.epj"
+      "qsquaremap.epj",
+      "requirements.txt"
     ],
     "OTHERTOOLSPARMS": {},
     "PACKAGERSPARMS": {},
@@ -77,8 +79,8 @@
     "RESOURCES": [],
     "SOURCES": [
       "demo.py",
-      "src/__init__.py",
-      "src/qsquaremap.py"
+      "src/qsquaremap/__init__.py",
+      "src/qsquaremap/qsquaremap.py"
     ],
     "SOURCESDIR": "",
     "SPELLEXCLUDES": "",
