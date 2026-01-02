@@ -1,2 +1,5 @@
 # qsquaremap
-Port of the hierarchical visualization control SquareMap for wxPython to PyQt and PySide
+
+Port of the hierarchical visualization control
+[SquareMap for wxPython](https://github.com/mcfletch/squaremap)
+to PyQt and PySide.
