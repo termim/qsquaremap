@@ -10,7 +10,7 @@ where = ["src"]
 
 [project]
 name =  "qsquaremap"
-version =  "0.2"
+version =  "0.3"
 description = 'Hierarchical visualization widget QSquareMap for PyQt and PySide'
 license = {file = "LICENSE"}
 readme = "README.md"

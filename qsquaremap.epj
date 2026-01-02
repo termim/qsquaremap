@@ -60,6 +60,7 @@
     "OTHERS": [
       ".github/workflows/pypi-publish.yml",
       ".gitignore",
+      "MANIFEST.in",
       "README.md",
       "pyproject.toml",
       "qsquaremap.epj",
